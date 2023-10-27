@@ -82,17 +82,17 @@ html, body {
 }
 
 .title {
-    font-size: 68px;
+    font-size: 58px;
 }
 
 .subtittle {
-    font-size: 38px;
-    padding-top: 20px;
+    font-size: 32px;
+    padding-top: 14px;
 }
 
 .descr {
     font-size: 20px;
-    padding-top: 20px;
+    padding-top: 14px;
 }
 
 body {
